@@ -11,7 +11,7 @@ End-to-end testing using nightwatch.js
 You can create a singleton server using Python 2.x:
 `python -m SimpleHTTPServer 3000`
 
-## Configure nightwatch.json
+### Configure nightwatch.json
 You have to configure this file specifying:
 - The paths of *Selenium* and *ChromeDriver*
 - Source folder of yours tests
